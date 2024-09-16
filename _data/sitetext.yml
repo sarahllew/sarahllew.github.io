@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my Portfolio!
-    text: Take a look at my projects below
+    text: Sarah Lew
+    title: Hello! Welcome to my portfolio, a collection of my projects.
     button: View Projects
     buttonlink: "#portfolio"
 
@@ -23,14 +23,14 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   about:
-    title: "About Us"
+    title: "Resume"
     text: "Resume"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    # body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   contact:
     title: "Contact Me"
-    text: "Email: sarahl02116@gmail.com Phone (909) 492-3962"
+    text: "Email: sarahl02116@gmail.com or Phone: (909) 492-3962"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
