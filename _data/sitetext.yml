@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    text: Sarah Lew
-    title: Hello! Welcome to my portfolio.
+    text: Hello! Welcome to my portfolio.
+    title: Sarah Lew
     button: View Projects
     buttonlink: "#portfolio"
 
