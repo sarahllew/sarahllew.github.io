@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://sarahllew.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:  # the subpath of your site, e.g. /blog
 
-title      : Sarah Lew
+title      : Sarah Lew's Portfolio
 email      : sarahl02116@gmail.com #this is also the email contact forms will go to
 description: 
 author     : Sarah Lew
