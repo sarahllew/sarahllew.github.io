@@ -1,8 +1,7 @@
 ---
-layout: portfolio
 title: "Analysis of Region Energy Consumption"
 subtitle: Tableau, Python
-image: assets/img/portfolio/energy-consumption.png
+image: assets/img/portfolio/02-full.jpg
 alt: 
 
 caption:
