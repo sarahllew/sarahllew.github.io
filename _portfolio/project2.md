@@ -1,8 +1,8 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Project 2
+subtitle: subtitle here
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: image caption
 
 caption:
   title: Explore
