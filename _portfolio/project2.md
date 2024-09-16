@@ -1,18 +1,17 @@
 ---
-title: Project 2
-subtitle: subtitle here
+title: Predicting Sephora Product Ratings
+subtitle: Machine Learning, R, Regression
 image: assets/img/portfolio/02-full.jpg
-alt: image caption
+alt: eda
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Predicting Sephora Product Ratings
+  subtitle: Machine Learning, R, Regression
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: April 2024-June 2024
+- Category: Machine Learning
 
