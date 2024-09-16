@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     text: Sarah Lew
-    title: Hello! Welcome to my portfolio, a collection of my projects.
+    title: Hello! Welcome to my portfolio.
     button: View Projects
     buttonlink: "#portfolio"
 
