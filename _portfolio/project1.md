@@ -1,5 +1,6 @@
 ---
-title: "Analysis of Region Energy Consumption"
+layout: index
+title: Analysis of Region Energy Consumption
 subtitle: Tableau, Python
 image: assets/img/portfolio/01-full.jpg
 alt: heatmap
